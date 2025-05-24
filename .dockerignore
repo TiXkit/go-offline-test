@@ -1,0 +1,5 @@
+.git
+dockerfile
+*.md
+/tests/
+bin/
